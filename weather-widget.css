@@ -1,0 +1,34 @@
+
+  :host {
+    display: block;
+    font-family: 'Arial', sans-serif;
+  }
+
+  #инфо-погоды {
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    text-align: center;
+  }
+
+  h1 {
+    color: #f39c12;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    margin: 5px 0;
+  }
+
+  #температура, #ощущается-как {
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  #условия, #восход, #заход, #осадки, #ветер, #давление, #влажность, #видимость, #облачность, #снег, #направление-ветра {
+    font-size: 16px;
+  }
+
